@@ -1,3 +1,9 @@
-2016-08-18  Jari-Hermann Ernst, M.A.  <jari-hermann.ernst@bad-gmbh.de>
+2016-08-18  Jari-Hermann Ernst, M.A.  <jari-hermann.ernst@bad-gmbh.de> V 0.0.1
+
+    * Startetd the implementation of the functionality by building a backend
+      module to identify all the affected content elements by putting out a
+      simple list
+
+2016-08-18  Jari-Hermann Ernst, M.A.  <jari-hermann.ernst@bad-gmbh.de> V 0.0.0
 
 	* Initial code generated with kickstarter
